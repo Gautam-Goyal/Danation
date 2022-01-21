@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866440550891",
+    "project_id": "udbhav-b336b",
+    "storage_bucket": "udbhav-b336b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866440550891:android:666253ef5169f318cae1ae",
+        "android_client_info": {
+          "package_name": "com.example.udbhav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866440550891-6ekre1oidni4aum257gjpsdn0838n5hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.udbhav",
+            "certificate_hash": "105528871bf2e7c2b406a3c7f05e1f565f176222"
+          }
+        },
+        {
+          "client_id": "866440550891-1km22h39kh50r3nfjfcgk91modg0vjud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARqz-Js4gecGf7DFToXLTqowOFSTRDHzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866440550891-1km22h39kh50r3nfjfcgk91modg0vjud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
